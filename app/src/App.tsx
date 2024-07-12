@@ -29,7 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p>
-        Hello new change. Hello world! Howdy 🤠! Yippee! Here's a change for dedicated, pls log :(
+        Hello new change. Hello world! Howdy 🤠! Yippee! Here's a change for dedicated again!
       </p>
     </>
   )
