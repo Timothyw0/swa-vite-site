@@ -29,7 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p>
-        Hello new change. Hello world! Howdy 🤠! Yippee! Beta retake 102.1.20.12!
+        Hello new change. Hello world! Howdy 🤠! Yippee! We are now in euapdm1 102.1.30.0!
       </p>
     </>
   )
