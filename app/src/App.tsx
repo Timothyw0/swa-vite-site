@@ -29,7 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p>
-        Hello new change. Hello world! Howdy 🤠! CRUD after I got unblocked! Make a change on new branch!! change
+        Hello new change. Hello world! Howdy 🤠! CRUD after I got unblocked! Make a change on new branch!! change in PR
       </p>
     </>
   )
