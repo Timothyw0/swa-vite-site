@@ -29,7 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p>
-        Hello new change. Hello world! Howdy 🤠! Yippee! Dedicated change for euapdm1 dedicated testing before flipping build queue -> admin queue flag
+        Hello new change. Hello world! Howdy 🤠! Yippee! Dedicated change for euapdm1 dedicated testing after flipping build queue -> admin queue flag
       </p>
     </>
   )
