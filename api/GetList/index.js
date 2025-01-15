@@ -2,6 +2,6 @@ module.exports = async function (context, req) {
     context.log('JavaScript HTTP trigger function processed a request.');
 
     context.res = {
-        body: ["Jarod", "Hannah", "Kevin", "Mitch","Colby", "Hello world", "New API Change by Tim", "Hello world v20", "change"]
+        body: ["Jarod", "Hannah", "Kevin", "Mitch","Colby", "Hello world", "New API Change by Tim", "Hello world v20", "change2"]
     }
 };
